@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "tvcurada-35c1c8b8-c637-555f-addb-5f359fd09b53",
+    "nombre": "+tdp [ES]",
+    "fuente": "https://iptv-epg.org/files/epg-es.xml.gz",
+    "id_fuente": "Teledeporte.es"
+  },
+  {
+    "id": "tvcurada-3e0d5c5b-59da-58b6-8c7d-3a484bbd5ddc",
+    "nombre": "24 Horas [ES]",
+    "fuente": "https://iptv-epg.org/files/epg-es.xml.gz",
+    "id_fuente": "24Horas.es"
+  },
+  {
+    "id": "tvcurada-68945211-959d-53aa-a70a-08483950d138",
+    "nombre": "ACC Digital Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "124806.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-b7fd510a-69f6-5715-b8d6-55ada2f6e0d1",
+    "nombre": "AccuWeather NOW [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "120551.Plex"
+  },
+  {
+    "id": "ActionHollywoodMovies.us",
+    "nombre": "Action Hollywood Movies [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "169818.Plex"
+  },
+  {
+    "id": "Actualidad360.es@SD",
+    "nombre": "Actualidad 360 [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "Actualidad360.es"
+  },
+  {
+    "id": "tvcurada-d8df13bf-6e7a-52e6-9312-34ca8daf6c8b",
+    "nombre": "AMC Thrillers [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "115678.Plex"
+  },
+  {
+    "id": "tvcurada-0f5f5ff4-ca7c-57d5-b5a9-591fef65c64e",
+    "nombre": "America Television [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "AmericaTelevision.pe"
+  },
+  {
+    "id": "tvcurada-9fb15a3a-1496-5c8c-bb01-e8a2afd2fc34",
+    "nombre": "Animation+ [US]",
+    "fuente": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/us.xml.gz",
+    "id_fuente": "6a1610bebdf296985fd95603-674f6a6cf44561420465f9f3"
+  },
+  {
+    "id": "AnimeVision.es",
+    "nombre": "Anime Vision [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "AnimeVision.es"
+  },
+  {
+    "id": "AnimeVisionClassics.es",
+    "nombre": "Anime Vision Classics [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "AnimeVisionClassics.es"
+  },
+  {
+    "id": "tvcurada-b5945daf-0a4b-540b-b684-05b82e59295f",
+    "nombre": "Argentinisima Satelital [AR]",
+    "fuente": "https://iptv-epg.org/files/epg-ar.xml.gz",
+    "id_fuente": "ArgentinisimaSatelital.ar"
+  },
+  {
+    "id": "tvcurada-e3cfecf7-9158-5c6d-be65-ad6c8e934e91",
+    "nombre": "ATV [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "Atv.pe"
+  },
+  {
+    "id": "tvcurada-882fa854-d10b-5bbb-af0c-649c8acb5b3b",
+    "nombre": "ATV Sur [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "AtvSur.pe"
+  },
+  {
+    "id": "tvcurada-563f08ce-2f4a-5587-9efb-09b7b820826f",
+    "nombre": "ATV+ [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "Atv+.pe"
+  },
+  {
+    "id": "tvcurada-9f033447-f977-5e87-8e1a-e21ba61fbd11",
+    "nombre": "AXS TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I340.28506.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-19fb8d48-7d6e-5199-b5ad-193412cea63f",
+    "nombre": "AyM Sports [MX]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/Latino_guide.xml.gz",
+    "id_fuente": "I89.34863.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-a427f27f-96ef-5675-9561-64b511a3db47",
+    "nombre": "Az Cinema [MX]",
+    "fuente": "https://www.open-epg.com/files/mexico2.xml.gz",
+    "id_fuente": "AZ CINEMA.mx"
+  },
+  {
+    "id": "tvcurada-9a42c6cf-24bc-5aa7-a9a8-52e7b055f91b",
+    "nombre": "Az Corazon [MX]",
+    "fuente": "https://iptv-epg.org/files/epg-mx.xml.gz",
+    "id_fuente": "AzCorazón.mx"
+  },
+  {
+    "id": "tvcurada-f1bbdf93-58bd-593e-b96e-09e3213083e5",
+    "nombre": "Azteca Honduras [HN]",
+    "fuente": "https://iptv-epg.org/files/epg-hn.xml.gz",
+    "id_fuente": "AztecaHonduras.hn"
+  },
+  {
+    "id": "tvcurada-03286bd4-fac6-5ab7-a28e-0f607df0874b",
+    "nombre": "Band Sports [BR]",
+    "fuente": "https://www.open-epg.com/files/brazil.xml.gz",
+    "id_fuente": "BandSports.br"
+  },
+  {
+    "id": "tvcurada-f7e2861d-3be8-5e96-83b7-6785bcf317c0",
+    "nombre": "BBC News",
+    "fuente": "https://www.open-epg.com/files/unitedkingdom.xml.gz",
+    "id_fuente": "BBCNews.uk"
+  },
+  {
+    "id": "tvcurada-3bf07755-c31c-5e47-93ba-82036a0f1d29",
+    "nombre": "BBC News [UK]",
+    "fuente": "https://www.open-epg.com/files/unitedkingdom.xml.gz",
+    "id_fuente": "BBCNews.uk"
+  },
+  {
+    "id": "BBCNews.uk",
+    "nombre": "BBC News [UK]",
+    "fuente": "https://www.open-epg.com/files/unitedkingdom.xml.gz",
+    "id_fuente": "BBCNews.uk"
+  },
+  {
+    "id": "tvcurada-a83e20aa-e12b-553c-a08b-96c917082c34",
+    "nombre": "beIN SPORTS XTRA en Espanol [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "122119.Plex"
+  },
+  {
+    "id": "beINSPORTSXTRAenEspanol.us",
+    "nombre": "beIN SPORTS XTRA en Espanol [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "122119.Plex"
+  },
+  {
+    "id": "tvcurada-8dba645b-d6d8-58d3-a8a6-222aa477f163",
+    "nombre": "Big Ten Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I610.56783.schedulesdirect.org"
+  },
+  {
+    "id": "BigTenNetwork.us",
+    "nombre": "Big Ten Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I610.56783.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-d48f35ae-1a38-58ee-816a-9c4aa1acea8c",
+    "nombre": "Bounce [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I82.73067.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-89644b40-a55d-5da9-a5d5-ea90acb639f9",
+    "nombre": "Brat TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "206619.Plex"
+  },
+  {
+    "id": "tvcurada-a1da7e0f-fe9a-5ea9-b1a5-d908fe78c5ae",
+    "nombre": "Buzzr [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "93430.Plex"
+  },
+  {
+    "id": "CanalN.pe@SD",
+    "nombre": "Canal N [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "CanalN.pe"
+  },
+  {
+    "id": "tvcurada-69f36fa3-9bec-5cf9-85c0-0390ffbb691b",
+    "nombre": "CBC News Network [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "CBCNewsNetwork.ca"
+  },
+  {
+    "id": "CBSSportsHQ.us@SD",
+    "nombre": "CBS Sports HQ [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "108919.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-513f6c88-9549-5b2a-9865-f3835c0456bd",
+    "nombre": "Clan [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "Clan.es"
+  },
+  {
+    "id": "tvcurada-caeb5bd5-58c6-5897-b6fa-89b0bcc71e2d",
+    "nombre": "Classic Cinema [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "180081.Tubi"
+  },
+  {
+    "id": "tvcurada-c2044fc2-c48f-5acf-9b9f-8afe5972512e",
+    "nombre": "CLIC [MX]",
+    "fuente": "https://www.open-epg.com/files/mexico2.xml.gz",
+    "id_fuente": "AZ CLIC.mx"
+  },
+  {
+    "id": "tvcurada-465bdac5-e0cf-51bf-a54c-ada62aee4fcc",
+    "nombre": "CMTV [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates1.xml.gz",
+    "id_fuente": "CMTV.us"
+  },
+  {
+    "id": "CNBC.us",
+    "nombre": "CNBC [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I355.10139.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-1afe8985-c214-55d1-a420-f2493fd9186a",
+    "nombre": "CNBC UK [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "CNBC.uk"
+  },
+  {
+    "id": "tvcurada-8d052619-b73f-50c4-b90c-b41ac17a7b16",
+    "nombre": "CNN (US) Geo",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "CNN.us"
+  },
+  {
+    "id": "tvcurada-46af9b14-09ed-5537-b4e6-12eb11d42522",
+    "nombre": "CNN [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "CNN.us"
+  },
+  {
+    "id": "tvcurada-12de5f03-0877-57db-87ad-8086cc8cebf7",
+    "nombre": "CNN en Espanol [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I419.17054.schedulesdirect.org"
+  },
+  {
+    "id": "CNNInternational.us",
+    "nombre": "CNN International [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I358.10146.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-6a9dc0fc-d986-5e5d-b8b7-42aa242dcd86",
+    "nombre": "Comedy Central [DE]",
+    "fuente": "https://www.open-epg.com/files/germany.xml.gz",
+    "id_fuente": "ComedyCentral.de"
+  },
+  {
+    "id": "tvcurada-2e3c56a7-df45-5725-bbd8-c71bb4bddfa3",
+    "nombre": "Comedy TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I382.82470.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-1fd73c4d-bbb7-5bf0-a4a1-c80305c62147",
+    "nombre": "Crunchyroll",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "140528.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-e83fd922-3b69-57da-92b4-f53e27c56f2d",
+    "nombre": "Crunchyroll",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "140528.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-49c3fa64-9c34-5772-bf46-4827637c269f",
+    "nombre": "Crunchyroll [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "140528.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-2b6dd906-6d7c-5576-ae67-7793ed1baae9",
+    "nombre": "Curiosity Now [DE]",
+    "fuente": "https://www.open-epg.com/files/germany.xml.gz",
+    "id_fuente": "CuriosityNow.de"
+  },
+  {
+    "id": "tvcurada-9bb5791e-fb29-5222-96aa-2487dbae5ffd",
+    "nombre": "DangerTV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "120204.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-2bf36400-3d0e-5cd9-8407-c0d3b6d6fdc4",
+    "nombre": "Dark Matter TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "128542.Plex"
+  },
+  {
+    "id": "tvcurada-f9302b57-70fa-535b-890f-faeb24014317",
+    "nombre": "DAZN Ringside [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "144738.Plex"
+  },
+  {
+    "id": "DF1.de",
+    "nombre": "DF1 [DE]",
+    "fuente": "https://www.open-epg.com/files/germany.xml.gz",
+    "id_fuente": "DF1.de"
+  },
+  {
+    "id": "tvcurada-7c95c950-2e32-575c-9fcc-261360f2f84e",
+    "nombre": "Distrito Comedia [MX]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/Latino_guide.xml.gz",
+    "id_fuente": "I235.55980.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-9d49feac-202d-5562-974b-48f44588d60c",
+    "nombre": "DraftKings Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "138277.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-92cbe7d0-bc11-5daa-8205-46d26de9c92a",
+    "nombre": "ElectricNOW [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "112797.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-a27547bd-8f67-5011-9aa7-133f2aa193c9",
+    "nombre": "ESPN 2 [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "ESPN2.us"
+  },
+  {
+    "id": "ESPN4.br@SD",
+    "nombre": "ESPN 4 [BR]",
+    "fuente": "https://www.open-epg.com/files/brazil.xml.gz",
+    "id_fuente": "ESPN4.br"
+  },
+  {
+    "id": "ESPN.br@SD",
+    "nombre": "ESPN [BR]",
+    "fuente": "https://www.open-epg.com/files/brazil.xml.gz",
+    "id_fuente": "ESPN.br"
+  },
+  {
+    "id": "tvcurada-f7a35e40-f309-581f-a488-a837b1bd9ca7",
+    "nombre": "ESPN [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "ESPN.us"
+  },
+  {
+    "id": "tvcurada-dbed8c5f-1969-51ae-959e-6c87a893de1e",
+    "nombre": "ESPNU [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "ESPNU.us"
+  },
+  {
+    "id": "ESPNU.us",
+    "nombre": "ESPNU [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I208.45654.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-13682328-9f06-59fa-b630-dc2c7dd44fb4",
+    "nombre": "Estrella TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I442.65064.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-c82e7d99-5fae-5c1a-a2cc-757d27165cf1",
+    "nombre": "ETB 2 [ES]",
+    "fuente": "https://iptv-epg.org/files/epg-es.xml.gz",
+    "id_fuente": "ETB2.es"
+  },
+  {
+    "id": "tvcurada-59578d70-4e84-57a3-b750-1639c731222d",
+    "nombre": "Exitosa TV [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "ExitosaTV.pe"
+  },
+  {
+    "id": "tvcurada-45944c8b-7a1d-55e9-a76b-8be6a18edf6c",
+    "nombre": "Farscape [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "130175.Plex"
+  },
+  {
+    "id": "tvcurada-3e94bf05-1f5c-575e-9819-03ff1398038b",
+    "nombre": "Fast TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "154443.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-b2d0a75e-eb1c-54d6-9284-bc9a2a8d6d86",
+    "nombre": "FEVA TV [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "FevaTV.ca"
+  },
+  {
+    "id": "tvcurada-ba8ca202-1dab-5b31-8b64-8cdb57d70879",
+    "nombre": "Fight Network [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "TheFightNetwork.ca"
+  },
+  {
+    "id": "FightNetwork.ca",
+    "nombre": "Fight Network [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "TheFightNetwork.ca"
+  },
+  {
+    "id": "tvcurada-f31f5417-d660-5c11-b426-e061bb53945d",
+    "nombre": "FilmRise Classic TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "117357.Plex"
+  },
+  {
+    "id": "ForensicFiles.us",
+    "nombre": "Forensic Files [US]",
+    "fuente": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/us.xml.gz",
+    "id_fuente": "6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d"
+  },
+  {
+    "id": "tvcurada-4b6ca4bc-f651-5252-ab8b-a00050e011eb",
+    "nombre": "Fox Deportes [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I465.15377.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-6cd179fe-cbd7-5a00-a6c2-1d307c4b571b",
+    "nombre": "Fox News Channel [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I360.16374.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-fc294c88-3d84-5125-91ad-f271ccf40796",
+    "nombre": "Fox Sports [AR]",
+    "fuente": "https://iptv-epg.org/files/epg-ar.xml.gz",
+    "id_fuente": "FOX Sports"
+  },
+  {
+    "id": "FrightFlix.us",
+    "nombre": "FrightFlix [US]",
+    "fuente": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/us.xml.gz",
+    "id_fuente": "6a1610bebdf296985fd95603-621674502c2627c068e73ada"
+  },
+  {
+    "id": "FTFSports.us",
+    "nombre": "FTF Sports [US]",
+    "fuente": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/us.xml.gz",
+    "id_fuente": "6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa"
+  },
+  {
+    "id": "FunBox.cl@SD",
+    "nombre": "FunBox [CL]",
+    "fuente": "https://www.open-epg.com/files/chile1.xml.gz",
+    "id_fuente": "Funbox.cl"
+  },
+  {
+    "id": "FUTV.cr@SD",
+    "nombre": "FUTV [CR]",
+    "fuente": "https://iptv-epg.org/files/epg-cr.xml.gz",
+    "id_fuente": "FUTV.cr"
+  },
+  {
+    "id": "tvcurada-3f065d74-327b-50ed-9956-dc0a059d5ec8",
+    "nombre": "Game+ [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "GAMEPLUS.ca"
+  },
+  {
+    "id": "tvcurada-7f6b5895-2cba-5718-bc6b-b37687f3bd54",
+    "nombre": "GB News [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "GBNews.uk"
+  },
+  {
+    "id": "GBNews.uk",
+    "nombre": "GB News [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "GBNews.uk"
+  },
+  {
+    "id": "tvcurada-937ee822-72bf-5dbd-8918-20b25c55486e",
+    "nombre": "ge Fast",
+    "fuente": "https://www.open-epg.com/files/brazil.xml.gz",
+    "id_fuente": "GeTv.br"
+  },
+  {
+    "id": "tvcurada-9e9e78cc-e6cd-505c-b0f8-03e39ce75c43",
+    "nombre": "Gems TV [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "GemsTV.uk"
+  },
+  {
+    "id": "tvcurada-abf59661-d056-593b-8804-d48f70e0278b",
+    "nombre": "Ghost Hunters Channel (US) Geo",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "137994.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-8ed7822b-12a4-551d-b7d7-89ca3942fb4a",
+    "nombre": "Global TV [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "GlobalTv.pe"
+  },
+  {
+    "id": "GoldenPlus.mx@SD",
+    "nombre": "Golden Plus [MX]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/Latino_guide.xml.gz",
+    "id_fuente": "I377.68317.schedulesdirect.org"
+  },
+  {
+    "id": "HallmarkMoviesMore.us",
+    "nombre": "Hallmark Movies & More [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "120977.PlutoTV"
+  },
+  {
+    "id": "tvcurada-45243881-b0ab-5c35-8419-27b25ea5d439",
+    "nombre": "HBCU-GO Sports [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "128535.Plex"
+  },
+  {
+    "id": "tvcurada-ee770eab-8b96-595b-9e8a-7560a8e4120c",
+    "nombre": "Historia [ES]",
+    "fuente": "https://iptv-epg.org/files/epg-es.xml.gz",
+    "id_fuente": "Historia.es"
+  },
+  {
+    "id": "tvcurada-8b269bae-b40b-52f4-bea9-ace33270e9da",
+    "nombre": "HLN [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I204.10145.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-dc7e498f-dcf2-5c3a-9c77-5e8712fbdc3a",
+    "nombre": "Hobby Maker [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "HobbyMaker.uk"
+  },
+  {
+    "id": "tvcurada-bc09548a-7169-5190-b46e-5b5092b1a15b",
+    "nombre": "HSN [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "HSN.us"
+  },
+  {
+    "id": "tvcurada-27fe0ba0-a548-58f0-9b19-42391e404fe6",
+    "nombre": "HSN2 [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I310.10270.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-f12992ed-0abf-5b0f-b408-93514bc604a2",
+    "nombre": "INSP [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I364.11066.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-e4eba0e5-aa16-5884-bcca-3b41f107e64e",
+    "nombre": "Just for Laughs Gags [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "116714.Plex"
+  },
+  {
+    "id": "JusticiaTV.pe@SD",
+    "nombre": "Justicia TV [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "JusticiaTv.pe"
+  },
+  {
+    "id": "tvcurada-a2af1920-94c4-5b3d-be77-bdc42e675723",
+    "nombre": "Kartoon Channel! [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "169820.Tubi"
+  },
+  {
+    "id": "tvcurada-4e9afaa1-d03a-5d2c-9cd6-1d7108db5f81",
+    "nombre": "Knowledge Network [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "KnowledgeNetwork.ca"
+  },
+  {
+    "id": "tvcurada-e73781b1-27d8-5dc7-b26e-60d352c04812",
+    "nombre": "L'Equipe [FR]",
+    "fuente": "https://www.open-epg.com/files/france.xml.gz",
+    "id_fuente": "LEquipe.fr"
+  },
+  {
+    "id": "tvcurada-a7c94526-5494-5b16-aa60-96bf69c9cb37",
+    "nombre": "La 2 [ES]",
+    "fuente": "https://iptv-epg.org/files/epg-es.xml.gz",
+    "id_fuente": "LA2.es"
+  },
+  {
+    "id": "tvcurada-1f884d7a-f37e-580c-85f9-5486ab87f9b5",
+    "nombre": "La Tele [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "LaTele.pe"
+  },
+  {
+    "id": "tvcurada-b78f4701-7abb-5f79-880d-97f75b06e14f",
+    "nombre": "Laff [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I239.92091.gracenote.com"
+  },
+  {
+    "id": "tvcurada-9a331189-f18d-5a7c-87ae-79414f30fbdf",
+    "nombre": "Laff More [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "137609.Plex"
+  },
+  {
+    "id": "tvcurada-04eba4f7-a7c2-50ad-8d83-35580cf14696",
+    "nombre": "Las Estrellas [MX]",
+    "fuente": "https://iptv-epg.org/files/epg-mx.xml.gz",
+    "id_fuente": "LasEstrellas.mx"
+  },
+  {
+    "id": "tvcurada-9ad47514-efbb-5164-8a0c-6b8b7de95332",
+    "nombre": "Latina [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "Latina.pe"
+  },
+  {
+    "id": "tvcurada-09948e27-74c4-5ff1-8acd-db1a513d6657",
+    "nombre": "Law & Crime [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "122963.Plex"
+  },
+  {
+    "id": "tvcurada-5d4d9ae3-1eb8-5d3d-9293-d1e511260469",
+    "nombre": "Law&Crime",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "122963.Plex"
+  },
+  {
+    "id": "tvcurada-a0f58970-9dfe-55e4-ac0c-9f9b680235a1",
+    "nombre": "Lone Star [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "115226.Plex"
+  },
+  {
+    "id": "tvcurada-83cd8c80-84ad-53cd-9cff-dfad221c892c",
+    "nombre": "Love Nature [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "LoveNature.ca"
+  },
+  {
+    "id": "tvcurada-377ec8a3-00e8-5edd-a920-f63135da024c",
+    "nombre": "Love The Planet [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "LoveThePlanet.es"
+  },
+  {
+    "id": "tvcurada-a9e9237d-12f3-513b-92bb-7f766f732214",
+    "nombre": "MLB [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "118354.PlutoTV"
+  },
+  {
+    "id": "tvcurada-952748e4-dd2b-5958-9e77-a7b856aa4ecb",
+    "nombre": "Motorvision [DE]",
+    "fuente": "https://www.open-epg.com/files/germany.xml.gz",
+    "id_fuente": "Motorvision.de"
+  },
+  {
+    "id": "MovistarPlus.pe@SD",
+    "nombre": "Movistar Plus [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "MovistarPlus.pe"
+  },
+  {
+    "id": "tvcurada-5c65d7f4-b55f-5f0c-bbd8-3cd1a3d4e4b0",
+    "nombre": "MS NOW [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "MSNOW.us"
+  },
+  {
+    "id": "tvcurada-0632d9d7-0271-5049-b9b5-054cd21d602b",
+    "nombre": "MUTV [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "MUTV.uk"
+  },
+  {
+    "id": "tvcurada-fd981c22-8dbf-52c0-acd0-a83a2c61a413",
+    "nombre": "Mythbusters [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "180083.Plex"
+  },
+  {
+    "id": "tvcurada-9ff6104d-272f-5551-aa54-f0a3a610ca72",
+    "nombre": "National Geographic [MX]",
+    "fuente": "https://iptv-epg.org/files/epg-mx.xml.gz",
+    "id_fuente": "NationalGeographic.mx"
+  },
+  {
+    "id": "tvcurada-46f1b091-2d64-5bff-9391-366eace734de",
+    "nombre": "Negocios TV [ES]",
+    "fuente": "https://iptv-epg.org/files/epg-es.xml.gz",
+    "id_fuente": "NegociosTV.es"
+  },
+  {
+    "id": "tvcurada-00c244e4-eba8-55a0-b2fd-842cdf5e92da",
+    "nombre": "NET TV [AR]",
+    "fuente": "https://iptv-epg.org/files/epg-ar.xml.gz",
+    "id_fuente": "NetTV.ar"
+  },
+  {
+    "id": "tvcurada-1f2a6730-47b5-5bf7-ae2a-90ffd6e0d508",
+    "nombre": "NEW K.MOVIES [US]",
+    "fuente": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/us.xml.gz",
+    "id_fuente": "6a1610bebdf296985fd95603-60d4eddab2fdec002c141131"
+  },
+  {
+    "id": "tvcurada-1cc76d64-29ef-5820-85f0-29839c051424",
+    "nombre": "News24 [AU]",
+    "fuente": "https://iptv-epg.org/files/epg-au.xml.gz",
+    "id_fuente": "News24.au"
+  },
+  {
+    "id": "tvcurada-dc7ce023-243e-5b2a-8629-1cdd10c96828",
+    "nombre": "Newsmax TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I349.87925.schedulesdirect.org"
+  },
+  {
+    "id": "NFLNetwork.us",
+    "nombre": "NFL Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I212.34710.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-6be92723-b67c-5063-9d46-6634151135ab",
+    "nombre": "Ninja Kidz TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "138773.Plex"
+  },
+  {
+    "id": "tvcurada-413a97c3-7e15-5faa-bcfb-e18689ec50e8",
+    "nombre": "Nosey (US) Geo",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I50.5.113685.gracenote.com"
+  },
+  {
+    "id": "tvcurada-327c6761-544d-56d8-b0d2-0aabedecec7f",
+    "nombre": "Nosey [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I50.5.113685.gracenote.com"
+  },
+  {
+    "id": "tvcurada-29e09152-1b8f-5fbb-b9a4-9ffcb45a465a",
+    "nombre": "NOW Rock [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "NOWRock.uk"
+  },
+  {
+    "id": "NTN24.co@SD",
+    "nombre": "NTN24 [CO]",
+    "fuente": "https://www.open-epg.com/files/colombia1.xml.gz",
+    "id_fuente": "NTN24.co"
+  },
+  {
+    "id": "tvcurada-05c510a1-3ebd-551e-8dce-2950ed8856ac",
+    "nombre": "NTV+ [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "NTVPlus.ca"
+  },
+  {
+    "id": "tvcurada-9d415b23-3d0e-54e7-a5d0-d5967b95a490",
+    "nombre": "Outside TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I390.80651.gracenote.com"
+  },
+  {
+    "id": "tvcurada-4627526e-3bb7-55e1-a088-c76b5c5f3c58",
+    "nombre": "Panamericana TV [PE]",
+    "fuente": "https://iptv-epg.org/files/epg-pe.xml.gz",
+    "id_fuente": "PanamericanaTV.pe"
+  },
+  {
+    "id": "tvcurada-7824a097-f27e-5d32-9adb-07f5a6e4caa8",
+    "nombre": "PBS Kids",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I56.2.45325.gracenote.com"
+  },
+  {
+    "id": "tvcurada-3cf27605-df26-597f-ba55-65aff0501fb1",
+    "nombre": "PBS Kids [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I56.2.45325.gracenote.com"
+  },
+  {
+    "id": "tvcurada-6db27b08-7cb7-55e6-9238-fc9e388e05bc",
+    "nombre": "PFL MMA [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "127399.Plex"
+  },
+  {
+    "id": "PFLMMA.us",
+    "nombre": "PFL MMA [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "127399.Plex"
+  },
+  {
+    "id": "tvcurada-15aa0ab6-0239-5871-80bc-8ea029b75a4b",
+    "nombre": "PowerNation TV [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "123515.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-99b94d17-79d7-5155-8750-5600347ceee9",
+    "nombre": "QVC [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "QVC.uk"
+  },
+  {
+    "id": "tvcurada-cba5b70d-9b94-5490-bf27-92408797e083",
+    "nombre": "Real America's Voice [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "116186.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-d79e52ea-2183-5de7-8d6c-1bf0a53baa91",
+    "nombre": "Real Madrid TV [ES]",
+    "fuente": "https://iptv-epg.org/files/epg-es.xml.gz",
+    "id_fuente": "RealMadridTV.es"
+  },
+  {
+    "id": "tvcurada-20f9ae92-73f6-5762-af34-0e41e43470ae",
+    "nombre": "Revry [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "113603.SamsungTVPlus"
+  },
+  {
+    "id": "tvcurada-42ab919e-62f6-50dc-bd36-0f2e688bcc79",
+    "nombre": "RPP TV [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "RppTV.pe"
+  },
+  {
+    "id": "tvcurada-6f0865be-52c1-5cd5-867a-de2721b51e4b",
+    "nombre": "Run Time Acción [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "RuntimeAccion.es"
+  },
+  {
+    "id": "tvcurada-71d52387-716f-5dbc-a720-1a63a6ee821f",
+    "nombre": "Run Time Comedia [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "RuntimeComedia.es"
+  },
+  {
+    "id": "tvcurada-a7da639f-606b-5a75-8bff-e27ca2329386",
+    "nombre": "Run Time Crimen [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "RuntimeCrimen.es"
+  },
+  {
+    "id": "tvcurada-df69269b-f520-5406-850e-65298e30b307",
+    "nombre": "Scream Factory TV [US]",
+    "fuente": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/us.xml.gz",
+    "id_fuente": "6a1610bebdf296985fd95603-6351991cccee3e1547a8831e"
+  },
+  {
+    "id": "tvcurada-1bcaf06c-5224-5dbb-a8d1-d4596ed868a9",
+    "nombre": "Scripps Sports Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "204956.SamsungTVPlus"
+  },
+  {
+    "id": "SECNetwork.us@SD",
+    "nombre": "SEC Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I611.89535.schedulesdirect.org"
+  },
+  {
+    "id": "SECNetwork.us",
+    "nombre": "SEC Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I611.89535.schedulesdirect.org"
+  },
+  {
+    "id": "SkyNews.uk",
+    "nombre": "Sky News [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "SkyNews.uk"
+  },
+  {
+    "id": "tvcurada-cde58705-f6e5-5f55-a474-d597b494bdb6",
+    "nombre": "Sky Racing 1 [AU]",
+    "fuente": "https://iptv-epg.org/files/epg-au.xml.gz",
+    "id_fuente": "SKYRacing1.au"
+  },
+  {
+    "id": "tvcurada-a8c62f94-caf1-5ca0-9dce-ef4fa1fa5db5",
+    "nombre": "Sky Racing 2 (720p) [AU]",
+    "fuente": "https://iptv-epg.org/files/epg-au.xml.gz",
+    "id_fuente": "SKYRacing2.au"
+  },
+  {
+    "id": "tvcurada-0656e6b5-adc9-5f94-bddc-4051951d2b49",
+    "nombre": "SLVR Sports and Entertainment (SLVR)",
+    "fuente": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/us.xml.gz",
+    "id_fuente": "6a1610bebdf296985fd95603-69b845bb8b510f5b7fff04b2"
+  },
+  {
+    "id": "tvcurada-ec7323c2-8207-5382-83fb-a165824cb46b",
+    "nombre": "SNL Vault [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "113678.SamsungTVPlus"
+  },
+  {
+    "id": "SonyChannel.ar@SD",
+    "nombre": "Sony Channel [AR]",
+    "fuente": "https://www.open-epg.com/files/argentina.xml.gz",
+    "id_fuente": "SonyChannel.ar"
+  },
+  {
+    "id": "SpectrumSportsNet.us",
+    "nombre": "Spectrum SportsNet [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I691.77423.gracenote.com"
+  },
+  {
+    "id": "tvcurada-7655e49e-fc82-53d7-9842-ade7d9cb666c",
+    "nombre": "Sportitalia [IT]",
+    "fuente": "https://www.open-epg.com/files/italy3.xml.gz",
+    "id_fuente": "Sportitalia.it"
+  },
+  {
+    "id": "tvcurada-f389c9dd-b8ed-5267-b4ff-1a2213dca6ca",
+    "nombre": "SportsGrid [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "112732.Plex"
+  },
+  {
+    "id": "StarChannel.cl@SD",
+    "nombre": "Star Channel [CL]",
+    "fuente": "https://www.open-epg.com/files/chile2.xml.gz",
+    "id_fuente": "STAR CHANNEL.cl"
+  },
+  {
+    "id": "tvcurada-9447e864-6100-56db-93cc-c3c7591b358e",
+    "nombre": "Stingray Classic Rock [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "StingrayClassicRock.ca"
+  },
+  {
+    "id": "tvcurada-e5388332-f257-5fdd-a28f-e718303faf34",
+    "nombre": "Stingray Reggaeton [CA]",
+    "fuente": "https://www.open-epg.com/files/canada.xml.gz",
+    "id_fuente": "StingrayReggaeton.ca"
+  },
+  {
+    "id": "tvcurada-467c1632-8079-5bca-9c95-05c905f5647f",
+    "nombre": "Stingray Today's K-Pop [CA]",
+    "fuente": "https://www.open-epg.com/files/canada.xml.gz",
+    "id_fuente": "StingrayTodaysKPop.ca"
+  },
+  {
+    "id": "tvcurada-09ef7464-4024-5907-951d-a6145bd77bfd",
+    "nombre": "Swerve Combat [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "122436.Plex"
+  },
+  {
+    "id": "tvcurada-266322d6-785e-5142-a227-93364bb56c59",
+    "nombre": "talkSPORT [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "talkSPORT.uk"
+  },
+  {
+    "id": "tvcurada-aaffa67f-c9cd-507b-913a-4cab7414db39",
+    "nombre": "Telemundo Internacional [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I406.77606.schedulesdirect.org"
+  },
+  {
+    "id": "tvcurada-4cc99450-0070-577b-88cc-215ea89a9036",
+    "nombre": "The Word Network [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
+    "id_fuente": "I373.21781.schedulesdirect.org"
+  },
+  {
+    "id": "TNTSports1.uk",
+    "nombre": "TNT Sports 1 [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "TNTSports1.uk"
+  },
+  {
+    "id": "TNTSports3.uk",
+    "nombre": "TNT Sports 3 [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "TNTSports3.uk"
+  },
+  {
+    "id": "tvcurada-07e839ca-adb5-5cd3-9b5f-251f4be7e63c",
+    "nombre": "Todo Novelas [ES]",
+    "fuente": "https://www.open-epg.com/files/spain.xml.gz",
+    "id_fuente": "TodoNovelas.es"
+  },
+  {
+    "id": "tvcurada-87d1f732-04d5-59f7-aaa0-beee8859b81c",
+    "nombre": "ToonGoggles [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "126634.SamsungTVPlus"
+  },
+  {
+    "id": "Tosh0.us@SD",
+    "nombre": "Tosh.0 [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "115021.PlutoTV"
+  },
+  {
+    "id": "tvcurada-f7a1198a-57cd-554f-b0f7-bdde62d0aaaa",
+    "nombre": "Trace Sport Stars [FR]",
+    "fuente": "https://www.open-epg.com/files/france.xml.gz",
+    "id_fuente": "TRACESportStars.fr"
+  },
+  {
+    "id": "tvcurada-6c025695-1c6f-52b9-ad41-6e37432cc67d",
+    "nombre": "True Crime [UK]",
+    "fuente": "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "id_fuente": "TrueCrime.uk"
+  },
+  {
+    "id": "tvcurada-dfd1cbba-1f87-58b8-a851-c778a7b8c4d2",
+    "nombre": "TSN The Ocho [CA]",
+    "fuente": "https://iptv-epg.org/files/epg-ca.xml.gz",
+    "id_fuente": "TSNTheOcho.ca"
+  },
+  {
+    "id": "tvcurada-4a16c6b9-2b66-54d7-9502-8ed41818d4b5",
+    "nombre": "TV Peru [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "TVPeru.pe"
+  },
+  {
+    "id": "TVPeruNoticias.pe@SD",
+    "nombre": "TV Peru Noticias [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "TVPeruNoticias.pe"
+  },
+  {
+    "id": "TVSN.au@SD",
+    "nombre": "TVSN [AU]",
+    "fuente": "https://iptv-epg.org/files/epg-au.xml.gz",
+    "id_fuente": "TVSN.au"
+  },
+  {
+    "id": "tvcurada-af5a845b-9604-5396-a9f9-3d19d2a9bffa",
+    "nombre": "TyC Sports [AR]",
+    "fuente": "https://iptv-epg.org/files/epg-ar.xml.gz",
+    "id_fuente": "TyCSports.ar"
+  },
+  {
+    "id": "tvcurada-9af93256-2e7c-5d26-9794-60a7cea4a031",
+    "nombre": "Universal Monsters [US]",
+    "fuente": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/FreeTV_guide.xml.gz",
+    "id_fuente": "138450.SamsungTVPlus"
+  },
+  {
+    "id": "Willow.us@SD",
+    "nombre": "Willow [US]",
+    "fuente": "https://www.open-epg.com/files/unitedstates2.xml.gz",
+    "id_fuente": "WILLOW.us"
+  },
+  {
+    "id": "tvcurada-029b51e1-921b-5c5d-b7c7-79d7b1a9b307",
+    "nombre": "SolTV [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "SolTV.pe"
+  },
+  {
+    "id": "tvcurada-66377639-f8a6-520e-a402-b425d8125ef6",
+    "nombre": "USMPTV [PE]",
+    "fuente": "https://www.open-epg.com/files/peru.xml.gz",
+    "id_fuente": "UsmpTV.pe"
+  }
+]

@@ -1,0 +1,82 @@
+name: Actualizar guia personal
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 18 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: guia-pages
+  cancel-in-progress: false
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      actualizado: ${{ steps.estado.outputs.actualizado }}
+      canales: ${{ steps.estado.outputs.canales }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - run: python3 actualizar.py
+      - name: Leer estado de la guía generada
+        id: estado
+        run: |
+          python3 - <<'PY'
+          import os, json
+          from pathlib import Path
+          state = json.loads(Path('site/estado.json').read_text())
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write('actualizado=' + state['actualizado_utc'] + '\n')
+              output.write('canales=' + str(state['canales_48h']) + '\n')
+          PY
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
+        with:
+          path: site
+          retention-days: 1
+  publicar:
+    needs: generar
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e
+  registrar:
+    needs: [generar, publicar]
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Registrar la publicación en el repositorio
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          GENERATED_AT: ${{ needs.generar.outputs.actualizado }}
+          COVERED_CHANNELS: ${{ needs.generar.outputs.canales }}
+        run: |
+          python3 - <<'PY'
+          import os, json, base64, urllib.request, urllib.error
+          repo = os.environ['GH_REPO']
+          url = 'https://api.github.com/repos/' + repo + '/contents/ultima-publicacion.json'
+          headers = {'Authorization': 'Bearer ' + os.environ['GH_TOKEN'], 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json'}
+          record = {'actualizado_utc': os.environ['GENERATED_AT'], 'canales_48h': int(os.environ['COVERED_CHANNELS']), 'ejecucion': os.environ['RUN_ID']}
+          payload = {'message': 'Registrar actualización de programación', 'content': base64.b64encode((json.dumps(record, indent=2) + '\n').encode()).decode()}
+          try:
+              with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=20) as response:
+                  payload['sha'] = json.load(response)['sha']
+          except urllib.error.HTTPError as exc:
+              if exc.code != 404:
+                  raise
+          request = urllib.request.Request(url, headers=headers, data=json.dumps(payload).encode(), method='PUT')
+          with urllib.request.urlopen(request, timeout=20) as response:
+              if response.status not in (200, 201):
+                  raise RuntimeError('No se pudo registrar la publicación')
+          PY
